@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>北海道</Surface>
+        <Furigana>ほっかいどう</Furigana>
+        <Roman>hokkaidou</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>稚内</Surface>
+        <Furigana>わっかない</Furigana>
+        <Roman>wakkanai</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>留萌</Surface>
+        <Furigana>るもい</Furigana>
+        <Roman>rumoi</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>羽幌</Surface>
+        <Furigana>はぼろ</Furigana>
+        <Roman>haboro</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

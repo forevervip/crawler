@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>愛媛県</Surface>
+        <Furigana>えひめけん</Furigana>
+        <Roman>ehimeken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>松山</Surface>
+        <Furigana>まつやま</Furigana>
+        <Roman>matuyama</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>道後</Surface>
+        <Furigana>どうご</Furigana>
+        <Roman>dougo</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>松山</Surface>
+        <Furigana>まつやま</Furigana>
+        <Roman>matuyama</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

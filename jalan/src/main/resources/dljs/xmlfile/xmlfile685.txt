@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>静岡県</Surface>
+        <Furigana>しずおかけん</Furigana>
+        <Roman>sizuokaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>東伊豆</Surface>
+        <Furigana>ひがしいず</Furigana>
+        <Roman>higasiizu</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>大川</Surface>
+        <Furigana>おおかわ</Furigana>
+        <Roman>ookawa</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>北川</Surface>
+        <Furigana>きたがわ</Furigana>
+        <Roman>kitagawa</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>熱川</Surface>
+        <Furigana>あたがわ</Furigana>
+        <Roman>atagawa</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

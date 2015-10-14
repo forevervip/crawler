@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>宮城県</Surface>
+        <Furigana>みやぎけん</Furigana>
+        <Roman>miyagiken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>松島</Surface>
+        <Furigana>まつしま</Furigana>
+        <Roman>matusima</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>塩竈</Surface>
+        <Furigana>しおがま</Furigana>
+        <Roman>siogama</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>黒川</Surface>
+        <Furigana>くろかわ</Furigana>
+        <Roman>kurokawa</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

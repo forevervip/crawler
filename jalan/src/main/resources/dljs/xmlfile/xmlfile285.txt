@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>群馬県</Surface>
+        <Furigana>ぐんまけん</Furigana>
+        <Roman>gunmaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>赤城</Surface>
+        <Furigana>あかぎ</Furigana>
+        <Roman>akagi</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>桐生</Surface>
+        <Furigana>きりう</Furigana>
+        <Roman>kiriu</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>渡良瀬</Surface>
+        <Furigana>わたらせ</Furigana>
+        <Roman>watarase</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>赤城</Surface>
+        <Furigana>あかぎ</Furigana>
+        <Roman>akagi</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

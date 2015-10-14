@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>神奈川県</Surface>
+        <Furigana>かながわけん</Furigana>
+        <Roman>kanagawaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>足柄</Surface>
+        <Furigana>あしがら</Furigana>
+        <Roman>asigara</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>南足柄</Surface>
+        <Furigana>みなみあしがら</Furigana>
+        <Roman>minamiasigara</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>上郡</Surface>
+        <Furigana>かみごおり</Furigana>
+        <Roman>kamigoori</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

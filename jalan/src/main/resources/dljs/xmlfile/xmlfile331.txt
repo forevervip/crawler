@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>茨城県</Surface>
+        <Furigana>いばらきけん</Furigana>
+        <Roman>ibarakiken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>大洗</Surface>
+        <Furigana>おおあらい</Furigana>
+        <Roman>ooarai</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>ひたちなか</Surface>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>大洗</Surface>
+        <Furigana>おおあらい</Furigana>
+        <Roman>ooarai</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>ひたちなか</Surface>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>北海道</Surface>
+        <Furigana>ほっかいどう</Furigana>
+        <Roman>hokkaidou</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>石狩</Surface>
+        <Furigana>いしかり</Furigana>
+        <Roman>isikari</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>空知</Surface>
+        <Furigana>そらち</Furigana>
+        <Roman>sorati</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>千歳</Surface>
+        <Furigana>ちとせ</Furigana>
+        <Roman>titose</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>石狩</Surface>
+        <Furigana>いしかり</Furigana>
+        <Roman>isikari</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

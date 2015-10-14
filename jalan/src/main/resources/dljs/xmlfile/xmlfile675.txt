@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>福井県</Surface>
+        <Furigana>ふくいけん</Furigana>
+        <Roman>hukuiken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>若狭</Surface>
+        <Furigana>わかさ</Furigana>
+        <Roman>wakasa</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>敦賀</Surface>
+        <Furigana>つるが</Furigana>
+        <Roman>turuga</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>若狭</Surface>
+        <Furigana>わかさ</Furigana>
+        <Roman>wakasa</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

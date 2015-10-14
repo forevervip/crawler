@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>長野県</Surface>
+        <Furigana>ながのけん</Furigana>
+        <Roman>naganoken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>木曽</Surface>
+        <Furigana>きそ</Furigana>
+        <Roman>kiso</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>木曽</Surface>
+        <Furigana>きそ</Furigana>
+        <Roman>kiso</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>御岳</Surface>
+        <Furigana>みたけ</Furigana>
+        <Roman>mitake</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

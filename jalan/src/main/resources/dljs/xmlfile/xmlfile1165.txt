@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>高知県</Surface>
+        <Furigana>こうちけん</Furigana>
+        <Roman>koutiken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>安芸</Surface>
+        <Furigana>あき</Furigana>
+        <Roman>aki</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>室戸</Surface>
+        <Furigana>むろと</Furigana>
+        <Roman>muroto</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>室戸</Surface>
+        <Furigana>むろと</Furigana>
+        <Roman>muroto</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

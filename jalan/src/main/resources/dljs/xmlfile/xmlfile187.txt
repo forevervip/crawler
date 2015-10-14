@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>山形県</Surface>
+        <Furigana>やまがたけん</Furigana>
+        <Roman>yamagataken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>寒河江</Surface>
+        <Furigana>さがえ</Furigana>
+        <Roman>sagae</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>月山</Surface>
+        <Furigana>つきやま</Furigana>
+        <Roman>tukiyama</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>月山</Surface>
+        <Furigana>つきやま</Furigana>
+        <Roman>tukiyama</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>朝日</Surface>
+        <Furigana>あさひ</Furigana>
+        <Roman>asahi</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

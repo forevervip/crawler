@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>福島県</Surface>
+        <Furigana>ふくしまけん</Furigana>
+        <Roman>hukusimaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>南会津</Surface>
+        <Furigana>みなみあいづ</Furigana>
+        <Roman>minamiaizu</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>会津高原</Surface>
+        <Furigana>あいづこうげん</Furigana>
+        <Roman>aizukougen</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>湯野上</Surface>
+        <Furigana>ゆのかみ</Furigana>
+        <Roman>yunokami</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>南会津</Surface>
+        <Furigana>みなみあいづ</Furigana>
+        <Roman>minamiaizu</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

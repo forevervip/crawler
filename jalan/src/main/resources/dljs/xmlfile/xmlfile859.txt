@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>京都府</Surface>
+        <Furigana>きょうとふ</Furigana>
+        <Roman>kyoutohu</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>京都</Surface>
+        <Furigana>きょうと</Furigana>
+        <Roman>kyouto</Roman>
+      </Word>
+      <Word>
+        <Surface>駅周辺</Surface>
+        <Furigana>えきしゅうへん</Furigana>
+        <Roman>ekisyuuhen</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>京都駅</Surface>
+        <Furigana>きょうとえき</Furigana>
+        <Roman>kyoutoeki</Roman>
+      </Word>
+      <Word>
+        <Surface>近郊</Surface>
+        <Furigana>きんこう</Furigana>
+        <Roman>kinkou</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>山科</Surface>
+        <Furigana>やましな</Furigana>
+        <Roman>yamasina</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

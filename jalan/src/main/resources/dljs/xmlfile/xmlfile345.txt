@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>埼玉県</Surface>
+        <Furigana>さいたまけん</Furigana>
+        <Roman>saitamaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>秩父</Surface>
+        <Furigana>ちちぶ</Furigana>
+        <Roman>titibu</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>長瀞</Surface>
+        <Furigana>ながとろ</Furigana>
+        <Roman>nagatoro</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>長瀞</Surface>
+        <Furigana>ながとろ</Furigana>
+        <Roman>nagatoro</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

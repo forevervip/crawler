@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>東京都</Surface>
+        <Furigana>とうきょうと</Furigana>
+        <Roman>toukyouto</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>葛飾</Surface>
+        <Furigana>かつしか</Furigana>
+        <Roman>katusika</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>江戸川</Surface>
+        <Furigana>えどがわ</Furigana>
+        <Roman>edogawa</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>江東</Surface>
+        <Furigana>こうとう</Furigana>
+        <Roman>koutou</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>江東</Surface>
+        <Furigana>こうとう</Furigana>
+        <Roman>koutou</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

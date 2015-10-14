@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>群馬県</Surface>
+        <Furigana>ぐんまけん</Furigana>
+        <Roman>gunmaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>渋川</Surface>
+        <Furigana>しぶかわ</Furigana>
+        <Roman>sibukawa</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>伊香保</Surface>
+        <Furigana>いかほ</Furigana>
+        <Roman>ikaho</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>渋川</Surface>
+        <Furigana>しぶかわ</Furigana>
+        <Roman>sibukawa</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>伊香保</Surface>
+        <Furigana>いかほ</Furigana>
+        <Roman>ikaho</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

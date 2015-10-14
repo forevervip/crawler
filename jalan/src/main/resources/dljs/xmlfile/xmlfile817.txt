@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>三重県</Surface>
+        <Furigana>みえけん</Furigana>
+        <Roman>mieken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>伊勢</Surface>
+        <Furigana>いせ</Furigana>
+        <Roman>ise</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>二見</Surface>
+        <Furigana>ふたみ</Furigana>
+        <Roman>hutami</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>伊勢</Surface>
+        <Furigana>いせ</Furigana>
+        <Roman>ise</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>二見</Surface>
+        <Furigana>ふたみ</Furigana>
+        <Roman>hutami</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

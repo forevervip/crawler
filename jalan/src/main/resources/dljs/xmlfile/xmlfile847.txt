@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>滋賀県</Surface>
+        <Furigana>しがけん</Furigana>
+        <Roman>sigaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>草津</Surface>
+        <Furigana>くさつ</Furigana>
+        <Roman>kusatu</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>守山</Surface>
+        <Furigana>もりやま</Furigana>
+        <Roman>moriyama</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>近江八幡</Surface>
+        <Furigana>おうみはちまん</Furigana>
+        <Roman>oumihatiman</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>近江八幡</Surface>
+        <Furigana>おうみはちまん</Furigana>
+        <Roman>oumihatiman</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

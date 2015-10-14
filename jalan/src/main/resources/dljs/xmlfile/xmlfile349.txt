@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>埼玉県</Surface>
+        <Furigana>さいたまけん</Furigana>
+        <Roman>saitamaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>飯能</Surface>
+        <Furigana>はんのう</Furigana>
+        <Roman>hannou</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>東松山</Surface>
+        <Furigana>ひがしまつやま</Furigana>
+        <Roman>higasimatuyama</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>森林公園</Surface>
+        <Furigana>しんりんこうえん</Furigana>
+        <Roman>sinrinkouen</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>小川町</Surface>
+        <Furigana>おがわまち</Furigana>
+        <Roman>ogawamati</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

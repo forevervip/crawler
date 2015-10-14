@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>和歌山県</Surface>
+        <Furigana>わかやまけん</Furigana>
+        <Roman>wakayamaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>本宮</Surface>
+        <Furigana>ほんぐう</Furigana>
+        <Roman>honguu</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>新宮</Surface>
+        <Furigana>しんぐう</Furigana>
+        <Roman>singuu</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>中辺路</Surface>
+        <Furigana>なかへち</Furigana>
+        <Roman>nakaheti</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>新宮</Surface>
+        <Furigana>しんぐう</Furigana>
+        <Roman>singuu</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

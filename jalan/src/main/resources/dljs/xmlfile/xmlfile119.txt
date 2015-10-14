@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>岩手県</Surface>
+        <Furigana>いわてけん</Furigana>
+        <Roman>iwateken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>三陸</Surface>
+        <Furigana>さんりく</Furigana>
+        <Roman>sanriku</Roman>
+      </Word>
+      <Word>
+        <Surface>海岸</Surface>
+        <Furigana>かいがん</Furigana>
+        <Roman>kaigan</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>釜石</Surface>
+        <Furigana>かまいし</Furigana>
+        <Roman>kamaisi</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>大船渡</Surface>
+        <Furigana>おおふなと</Furigana>
+        <Roman>oohunato</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

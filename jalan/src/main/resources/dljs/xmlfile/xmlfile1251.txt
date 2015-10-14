@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>熊本県</Surface>
+        <Furigana>くまもとけん</Furigana>
+        <Roman>kumamotoken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>阿蘇</Surface>
+        <Furigana>あそ</Furigana>
+        <Roman>aso</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>阿蘇</Surface>
+        <Furigana>あそ</Furigana>
+        <Roman>aso</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>内牧</Surface>
+        <Furigana>うちまき</Furigana>
+        <Roman>utimaki</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

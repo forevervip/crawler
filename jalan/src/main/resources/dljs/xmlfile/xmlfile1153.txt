@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>愛媛県</Surface>
+        <Furigana>えひめけん</Furigana>
+        <Roman>ehimeken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>新居浜</Surface>
+        <Furigana>にいはま</Furigana>
+        <Roman>niihama</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>東予</Surface>
+        <Furigana>とうよ</Furigana>
+        <Roman>touyo</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>新居浜</Surface>
+        <Furigana>にいはま</Furigana>
+        <Roman>niihama</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>伊予三島</Surface>
+        <Furigana>いよみしま</Furigana>
+        <Roman>iyomisima</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

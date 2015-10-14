@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>山口県</Surface>
+        <Furigana>やまぐちけん</Furigana>
+        <Roman>yamagutiken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>下関</Surface>
+        <Furigana>しものせき</Furigana>
+        <Roman>simonoseki</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>宇部</Surface>
+        <Furigana>うべ</Furigana>
+        <Roman>ube</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>宇部</Surface>
+        <Furigana>うべ</Furigana>
+        <Roman>ube</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

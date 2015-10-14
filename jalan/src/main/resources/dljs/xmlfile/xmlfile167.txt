@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>秋田県</Surface>
+        <Furigana>あきたけん</Furigana>
+        <Roman>akitaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>横手</Surface>
+        <Furigana>よこて</Furigana>
+        <Roman>yokote</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>鳥海</Surface>
+        <Furigana>とりうみ</Furigana>
+        <Roman>toriumi</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>横手</Surface>
+        <Furigana>よこて</Furigana>
+        <Roman>yokote</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>湯沢</Surface>
+        <Furigana>ゆざわ</Furigana>
+        <Roman>yuzawa</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

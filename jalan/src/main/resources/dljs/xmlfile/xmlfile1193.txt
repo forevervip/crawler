@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>福岡県</Surface>
+        <Furigana>ふくおかけん</Furigana>
+        <Roman>hukuokaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>北九州</Surface>
+        <Furigana>きたきゅうしゅう</Furigana>
+        <Roman>kitakyuusyuu</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>飯塚</Surface>
+        <Furigana>いいづか</Furigana>
+        <Roman>iizuka</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>田川</Surface>
+        <Furigana>たがわ</Furigana>
+        <Roman>tagawa</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

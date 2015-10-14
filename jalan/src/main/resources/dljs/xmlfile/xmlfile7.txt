@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>北海道</Surface>
+        <Furigana>ほっかいどう</Furigana>
+        <Roman>hokkaidou</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>札幌</Surface>
+        <Furigana>さっぽろ</Furigana>
+        <Roman>sapporo</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>厚別</Surface>
+        <Furigana>あつべつ</Furigana>
+        <Roman>atubetu</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>白石</Surface>
+        <Furigana>しらいし</Furigana>
+        <Roman>siraisi</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>豊平</Surface>
+        <Furigana>とよひら</Furigana>
+        <Roman>toyohira</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

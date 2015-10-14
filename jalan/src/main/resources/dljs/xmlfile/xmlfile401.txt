@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>千葉県</Surface>
+        <Furigana>ちばけん</Furigana>
+        <Roman>tibaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>館山</Surface>
+        <Furigana>たてやま</Furigana>
+        <Roman>tateyama</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>南房総</Surface>
+        <Furigana>みなみぼうそう</Furigana>
+        <Roman>minamibousou</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>館山</Surface>
+        <Furigana>たてやま</Furigana>
+        <Roman>tateyama</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>山形県</Surface>
+        <Furigana>やまがたけん</Furigana>
+        <Roman>yamagataken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>米沢</Surface>
+        <Furigana>よねざわ</Furigana>
+        <Roman>yonezawa</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>置賜</Surface>
+        <Furigana>おきたま</Furigana>
+        <Roman>okitama</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>長井</Surface>
+        <Furigana>ながい</Furigana>
+        <Roman>nagai</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>置賜</Surface>
+        <Furigana>おきたま</Furigana>
+        <Roman>okitama</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

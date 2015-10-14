@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>富山県</Surface>
+        <Furigana>とやまけん</Furigana>
+        <Roman>toyamaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>富山</Surface>
+        <Furigana>とやま</Furigana>
+        <Roman>toyama</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>富山</Surface>
+        <Furigana>とやま</Furigana>
+        <Roman>toyama</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>八尾</Surface>
+        <Furigana>やお</Furigana>
+        <Roman>yao</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>静岡県</Surface>
+        <Furigana>しずおかけん</Furigana>
+        <Roman>sizuokaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>浜松</Surface>
+        <Furigana>はままつ</Furigana>
+        <Roman>hamamatu</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>浜名湖</Surface>
+        <Furigana>はまなこ</Furigana>
+        <Roman>hamanako</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>浜松</Surface>
+        <Furigana>はままつ</Furigana>
+        <Roman>hamamatu</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>浜北</Surface>
+        <Furigana>はまきた</Furigana>
+        <Roman>hamakita</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

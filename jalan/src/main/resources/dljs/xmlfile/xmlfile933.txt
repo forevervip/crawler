@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>兵庫県</Surface>
+        <Furigana>ひょうごけん</Furigana>
+        <Roman>hyougoken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>神戸</Surface>
+        <Furigana>こうべ</Furigana>
+        <Roman>koube</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>有馬</Surface>
+        <Furigana>ありま</Furigana>
+        <Roman>arima</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>明石</Surface>
+        <Furigana>あかし</Furigana>
+        <Roman>akasi</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>有馬</Surface>
+        <Furigana>ありま</Furigana>
+        <Roman>arima</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

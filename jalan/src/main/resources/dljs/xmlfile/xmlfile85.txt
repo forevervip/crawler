@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>青森県</Surface>
+        <Furigana>あおもりけん</Furigana>
+        <Roman>aomoriken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>青森</Surface>
+        <Furigana>あおもり</Furigana>
+        <Roman>aomori</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>青森</Surface>
+        <Furigana>あおもり</Furigana>
+        <Roman>aomori</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>浅虫</Surface>
+        <Furigana>あさむし</Furigana>
+        <Roman>asamusi</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>八甲田</Surface>
+        <Furigana>はっこうだ</Furigana>
+        <Roman>hakkouda</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

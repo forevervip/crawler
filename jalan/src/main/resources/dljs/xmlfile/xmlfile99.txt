@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>青森県</Surface>
+        <Furigana>あおもりけん</Furigana>
+        <Roman>aomoriken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>下北</Surface>
+        <Furigana>しもきた</Furigana>
+        <Roman>simokita</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>三沢</Surface>
+        <Furigana>みさわ</Furigana>
+        <Roman>misawa</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>下北</Surface>
+        <Furigana>しもきた</Furigana>
+        <Roman>simokita</Roman>
+      </Word>
+      <Word>
+        <Surface>半島</Surface>
+        <Furigana>はんとう</Furigana>
+        <Roman>hantou</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

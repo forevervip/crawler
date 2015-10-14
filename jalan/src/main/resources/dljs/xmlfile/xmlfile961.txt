@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>兵庫県</Surface>
+        <Furigana>ひょうごけん</Furigana>
+        <Roman>hyougoken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>城崎</Surface>
+        <Furigana>きのさき</Furigana>
+        <Roman>kinosaki</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>竹野</Surface>
+        <Furigana>たけの</Furigana>
+        <Roman>takeno</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>豊岡</Surface>
+        <Furigana>とよおか</Furigana>
+        <Roman>toyooka</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>竹野</Surface>
+        <Furigana>たけの</Furigana>
+        <Roman>takeno</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

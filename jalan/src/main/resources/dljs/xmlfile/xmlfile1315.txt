@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>鹿児島県</Surface>
+        <Furigana>かごしまけん</Furigana>
+        <Roman>kagosimaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>離島</Surface>
+        <Furigana>りとう</Furigana>
+        <Roman>ritou</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>種子島</Surface>
+        <Furigana>たねがしま</Furigana>
+        <Roman>tanegasima</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

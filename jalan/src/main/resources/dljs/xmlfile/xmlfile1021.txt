@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>鳥取県</Surface>
+        <Furigana>とっとりけん</Furigana>
+        <Roman>tottoriken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>鳥取</Surface>
+        <Furigana>とっとり</Furigana>
+        <Roman>tottori</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>岩美</Surface>
+        <Furigana>いわみ</Furigana>
+        <Roman>iwami</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>岩美</Surface>
+        <Furigana>いわみ</Furigana>
+        <Roman>iwami</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

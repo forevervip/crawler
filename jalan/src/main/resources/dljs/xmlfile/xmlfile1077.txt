@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>広島県</Surface>
+        <Furigana>ひろしまけん</Furigana>
+        <Roman>hirosimaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>庄原</Surface>
+        <Furigana>しょうばら</Furigana>
+        <Roman>syoubara</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>三次</Surface>
+        <Furigana>さんじ</Furigana>
+        <Roman>sanzi</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>芸北</Surface>
+        <Furigana>げいほく</Furigana>
+        <Roman>geihoku</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>三次</Surface>
+        <Furigana>さんじ</Furigana>
+        <Roman>sanzi</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>

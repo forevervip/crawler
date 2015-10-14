@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultSet xmlns="urn:yahoo:jp:jlp:FuriganaService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:yahoo:jp:jlp:FuriganaService http://jlp.yahooapis.jp/FuriganaService/V1/furigana.xsd">
+  <Result>
+    <WordList>
+      <Word>
+        <Surface>大分県</Surface>
+        <Furigana>おおいたけん</Furigana>
+        <Roman>ooitaken</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>中津</Surface>
+        <Furigana>なかつ</Furigana>
+        <Roman>nakatu</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>国東</Surface>
+        <Furigana>くにさき</Furigana>
+        <Roman>kunisaki</Roman>
+      </Word>
+      <Word>
+        <Surface>/</Surface>
+      </Word>
+      <Word>
+        <Surface>国東</Surface>
+        <Furigana>くにさき</Furigana>
+        <Roman>kunisaki</Roman>
+      </Word>
+      <Word>
+        <Surface>・</Surface>
+      </Word>
+      <Word>
+        <Surface>杵築</Surface>
+        <Furigana>きつき</Furigana>
+        <Roman>kituki</Roman>
+      </Word>
+    </WordList>
+  </Result>
+</ResultSet>
