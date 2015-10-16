@@ -1,6 +1,5 @@
 package com.waoooh.crawler.page.tagchunk.identifier.impl;
 
-import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
 import com.waoooh.crawler.consts.Const;
 import com.waoooh.crawler.page.tagchunk.TagDescription;
 import com.waoooh.crawler.page.tagchunk.identifier.DescriptionIdentifier;

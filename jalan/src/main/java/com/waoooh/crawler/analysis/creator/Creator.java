@@ -1,6 +1,5 @@
 package com.waoooh.crawler.analysis.creator;
 
-import com.sun.tools.javac.tree.JCTree;
 import com.waoooh.crawler.analysis.sentence.Sentence;
 import com.waoooh.crawler.page.tagchunk.TagDescription;
 

@@ -1,7 +1,5 @@
 package com.waoooh.crawler.page;
 
-import com.sun.jndi.cosnaming.CNCtx;
-import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
 import com.waoooh.crawler.consts.Const;
 import com.waoooh.crawler.consts.HtmlEncodeConst;
 import com.waoooh.crawler.consts.SourceConst;
