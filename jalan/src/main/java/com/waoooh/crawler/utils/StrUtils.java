@@ -162,7 +162,10 @@ public class StrUtils {
 
 
         if (intFrom < 0 || intTo < 0) {
-            return null;
+
+            // 2015/10/16 Changed by fp
+            // Null will cause the unexpected problem..
+            return "";
         }
 
 /*        if (intFrom >= intTo) {
@@ -239,7 +242,7 @@ public class StrUtils {
         // 进入正轨：
         // from中没有< 和 >的场合 不是tag 无法继续进行
         if (!from.contains(Const.$LT) && (!from.contains(Const.$GT))) {
-            return null;
+            return "";
         }
 
         String wrapFrom = "";

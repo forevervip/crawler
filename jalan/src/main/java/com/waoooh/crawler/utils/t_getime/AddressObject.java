@@ -90,4 +90,21 @@ public class AddressObject {
     public void setArea_code_3(String area_code_3) {
         this.area_code_3 = area_code_3;
     }
+
+    public String toString() {
+
+        return "area_code_1:".concat(this.area_code_1).concat("\n")
+                .concat("area_code_2:").concat(this.area_code_2).concat("\n")
+                .concat("area_code_3:").concat(this.area_code_3).concat("\n")
+                .concat("-------------------").concat("\n")
+                .concat("area_name_1:").concat(this.area_name_1).concat("\n")
+                .concat("area_name_2:").concat(this.area_name_2).concat("\n")
+                .concat("area_name_3:").concat(this.area_name_3).concat("\n")
+                .concat("-------------------").concat("\n")
+                .concat("area_roman_1:").concat(this.area_roman_1).concat("\n")
+                .concat("area_roman_2:").concat(this.area_roman_2).concat("\n")
+                .concat("area_roman_3:").concat(this.area_roman_3).concat("\n");
+
+
+    }
 }
