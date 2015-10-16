@@ -213,7 +213,8 @@ public class StrUtils {
 
         }
 
-        return calStr.substring(0, cutTo);
+        String rtValue = calStr.substring(0, cutTo);
+        return rtValue == null ? "" : rtValue;
 
     }
 
@@ -311,7 +312,8 @@ public class StrUtils {
             calStr = cutUntilFirstAndOffset(calStr, Const.$GT);
 
         }
-        return calStr.substring(0, cutTo);
+        String rtValue = calStr.substring(0, cutTo);
+        return rtValue == null ? "" : rtValue;
 
     }
 
