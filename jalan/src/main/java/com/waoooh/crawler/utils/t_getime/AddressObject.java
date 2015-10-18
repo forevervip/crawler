@@ -14,8 +14,36 @@ public class AddressObject {
     private String area_code_3;
 
     private String area_roman_1;
-
     private String area_roman_2;
+    private String area_roman_3;
+
+    private String area_zh_cn_1;
+    private String area_zh_cn_2;
+    private String area_zh_cn_3;
+
+    public String getArea_zh_cn_1() {
+        return area_zh_cn_1;
+    }
+
+    public void setArea_zh_cn_1(String area_zh_cn_1) {
+        this.area_zh_cn_1 = area_zh_cn_1;
+    }
+
+    public String getArea_zh_cn_2() {
+        return area_zh_cn_2;
+    }
+
+    public void setArea_zh_cn_2(String area_zh_cn_2) {
+        this.area_zh_cn_2 = area_zh_cn_2;
+    }
+
+    public String getArea_zh_cn_3() {
+        return area_zh_cn_3;
+    }
+
+    public void setArea_zh_cn_3(String area_zh_cn_3) {
+        this.area_zh_cn_3 = area_zh_cn_3;
+    }
 
     public String getArea_roman_3() {
         return area_roman_3;
@@ -41,7 +69,7 @@ public class AddressObject {
         this.area_roman_2 = area_roman_2;
     }
 
-    private String area_roman_3;
+
 
     public String getArea_name_1() {
         return area_name_1;
