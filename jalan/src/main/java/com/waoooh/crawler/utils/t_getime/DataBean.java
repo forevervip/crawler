@@ -78,7 +78,7 @@ public class DataBean {
     {
 
         // ■　1
-        this.linkageid = key;
+        this.linkageid = switchNull(key);
 
         // ■　2
         this.name = switchNull(name);
