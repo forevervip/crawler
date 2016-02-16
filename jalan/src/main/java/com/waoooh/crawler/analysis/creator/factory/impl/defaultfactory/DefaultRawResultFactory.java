@@ -9,6 +9,13 @@ import com.waoooh.crawler.utils.StrUtils;
  */
 public class DefaultRawResultFactory implements AnalysisFactory {
 
+    /**
+     * 利用startTag以及endTag进行卡取相应标签，获得标签体的内容。
+     * 此时仅仅定位最大的外围标签，没有获得详细需要的内容。
+     *
+     * @param objects [0]Sentence实例 [1]startTag标签开头 [2]endTag 结尾标签
+     * @return
+     */
     @Override
     public Object make(Object[] objects) {
 
